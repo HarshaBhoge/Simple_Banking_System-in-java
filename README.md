@@ -11,8 +11,8 @@ Hi there! I built this tiny **Bank System** to practice OOP concepts in Java whi
 - **Loop Until Exit** – stay in the menu until I choose to quit.
 
 
-  🔍 How It Works
-=> bankAccount class holds balance, previousTransaction, customerName, and customerID.
-=> Simple constructor injects user details.
-=> Four core methods: deposit(), withdraw(), getPreviousTransaction(), and showMenu() (the CLI loop).
-=> The main method just creates an account and calls showMenu().
+  <p>🔍 How It Works
+=> bankAccount class holds balance, previousTransaction, customerName, and customerID.  <br>
+=> Simple constructor injects user details.  <br>
+=> Four core methods: deposit(), withdraw(), getPreviousTransaction(), and showMenu() (the CLI loop).  <br>
+=> The main method just creates an account and calls showMenu().  <br> 
